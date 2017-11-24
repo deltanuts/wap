@@ -2,7 +2,7 @@
 
 //version 0.11.5.4.0
 
-class WebApp {
+class Wap {
 
     public $dbPdo;
     public $debug = true;
