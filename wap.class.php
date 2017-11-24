@@ -1,4 +1,5 @@
 <?php
+namespace deltanuts\wap;
 
 //version 0.11.5.4.0
 
